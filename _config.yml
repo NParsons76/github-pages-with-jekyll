@@ -1,10 +1,8 @@
 title: Journey Through Coding
 author: NParsons76
 email: nparsons76@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+date: 2020-11-29
+description: A journey with me through the very intimidating world of coding that I am starting. I have played around with coding for some time but recently have been diving in on it, finally!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
